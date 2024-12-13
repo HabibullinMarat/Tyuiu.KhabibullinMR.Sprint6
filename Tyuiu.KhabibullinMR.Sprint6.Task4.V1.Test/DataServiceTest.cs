@@ -27,7 +27,7 @@ namespace Tyuiu.KhabibullinMR.Sprint6.Task4.V1.Test
             valueWaitArray[7] = -7.54;
             valueWaitArray[8] = -22.76;
             valueWaitArray[9] = -20.45;
-            valueWaitArray[10] = 0;
+            valueWaitArray[10] = 7.77;
 
             double[] res;
             res = new double[len];

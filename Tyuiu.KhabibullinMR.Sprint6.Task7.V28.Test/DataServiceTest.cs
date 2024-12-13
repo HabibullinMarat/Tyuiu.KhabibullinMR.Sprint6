@@ -1,6 +1,6 @@
-﻿using Tyuiu.KhabibullinMR.Sprint6.Task5.V30.Lib;
+﻿using Tyuiu.KhabibullinMR.Sprint6.Task7.V28.Lib;
 
-namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V30.Test
+namespace Tyuiu.KhabibullinMR.Sprint6.Task7.V28.Test
 {
     [TestClass]
     public sealed class DataServiceTest
