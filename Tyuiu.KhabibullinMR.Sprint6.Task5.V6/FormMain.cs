@@ -10,7 +10,7 @@ namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V6
         }
 
         DataService ds = new DataService();
-        string path = $@"{Path.GetTempPath()}InPutDataFileTask5V6.txt";
+        string path = $@"{Path.GetTempPath()}InPutFileTask5V6.txt";
         public void buttonDone_Click(object sender, EventArgs e)
         {
             dataGridViewNums_KMR.ColumnCount = 2;

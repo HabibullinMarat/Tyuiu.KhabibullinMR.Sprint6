@@ -9,7 +9,7 @@ namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V6.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            string path = $@"{Path.GetTempPath()}InPutDataFileTask5V6.txt";
+            string path = $@"{Path.GetTempPath()}InPutFileTask5V6.txt";
             double[] res = ds.LoadFromDataFile(path);
             double[] wait = { };
             CollectionAssert.AreEqual(wait,res);
