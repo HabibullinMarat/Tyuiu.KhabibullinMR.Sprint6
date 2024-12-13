@@ -20,7 +20,7 @@ namespace Tyuiu.KhabibullinMR.Sprint6.Task6.V2.Lib
                     res = line.Split(' ');
                     if (res.Length > 1)
                     {
-                        str += res[1];
+                        str += res[1] + " ";
                     }
                     
                     //str += Convert.ToString(line.Split(' ').Length);
