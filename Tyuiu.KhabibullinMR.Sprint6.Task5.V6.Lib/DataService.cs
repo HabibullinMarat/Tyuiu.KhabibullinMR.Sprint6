@@ -29,7 +29,7 @@ namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V6.Lib
                 }
             }
 
-            numsArray = numsArray.Where(val => val % 3 == 0).ToArray();
+            numsArray = numsArray.Where(val => val >=2 & val <=7).ToArray();
 
             return numsArray;
         }
