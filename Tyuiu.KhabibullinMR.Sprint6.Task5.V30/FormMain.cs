@@ -1,6 +1,6 @@
-using Tyuiu.KhabibullinMR.Sprint6.Task5.V6.Lib;
+using Tyuiu.KhabibullinMR.Sprint6.Task5.V30.Lib;
 
-namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V6
+namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V30
 {
     public partial class FormMain : Form
     {

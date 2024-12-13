@@ -1,8 +1,8 @@
 ﻿using tyuiu.cources.programming.interfaces.Sprint6;
 
-namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V6.Lib
+namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V30.Lib
 {
-    public class DataService : ISprint6Task5V6
+    public class DataService : ISprint6Task5V30
     {
         public int len = 0;
         public double[] LoadFromDataFile(string path)
@@ -29,7 +29,7 @@ namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V6.Lib
                 }
             }
 
-            numsArray = numsArray.Where(val => val >=2 & val <=7).ToArray();
+            numsArray = numsArray.Where(val => val >= 2 & val <= 7).ToArray();
 
             return numsArray;
         }

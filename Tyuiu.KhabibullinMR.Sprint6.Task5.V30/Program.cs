@@ -1,4 +1,4 @@
-namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V6
+namespace Tyuiu.KhabibullinMR.Sprint6.Task5.V30
 {
     internal static class Program
     {
