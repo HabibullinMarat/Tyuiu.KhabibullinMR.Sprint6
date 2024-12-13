@@ -27,6 +27,7 @@ namespace Tyuiu.KhabibullinMR.Sprint6.Task6.V2.Lib
 
                     
                 }
+                str = str.TrimEnd();
             }
             return str;
         }
